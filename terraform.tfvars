@@ -4,8 +4,11 @@ location            = "northeurope"
 sql_server_name = "ramu-sqlserver-demo"
 sql_db_name     = "ramu-sqldb-demo"
 
+sql_azuread_login = "ramanuja_translab.io#EXT#@wtest658gmail.onmicrosoft.com"
+
 # ── Pass via CI/CD secrets, NOT hardcoded ────
 sql_local_admin_username = "azureadmin"
+sql_local_admin_password = "qazwsx@12345"
 
 sku_tier     = "GeneralPurpose"
 compute_tier = "serverless"
