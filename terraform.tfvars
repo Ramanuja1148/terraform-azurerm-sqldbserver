@@ -4,7 +4,7 @@ location            = "centralindia"
 sql_server_name = "ramu-sqlserver-demo"
 sql_db_name     = "ramu-sqldb-demo"
 
-sql_azuread_login = "vikram@wtest658gmail.onmicrosoft.com"
+sql_azuread_login = "Madhu.d_translab.io#EXT#@wtest658gmail.onmicrosoft.com"
 
 # ── Pass via CI/CD secrets, NOT hardcoded ────
 sql_local_admin_username = "azureadmin"
